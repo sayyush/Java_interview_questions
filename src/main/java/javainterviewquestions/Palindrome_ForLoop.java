@@ -18,6 +18,7 @@ public class Palindrome_ForLoop {
             System.out.println(duz + " : palindrome'dur");
         } else {
             System.out.println(ters + " : palindrome degildir");
+            //
         }
 
     }
